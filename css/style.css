@@ -1,0 +1,51 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #4ea0ff;
+    background-image: url(../image/pattern.png);
+    padding-top: 70px;
+    background-size: 25%;
+}
+#logo img{
+    height: 80px;
+
+}
+.text-blue{
+    color: #4ea0ff;
+}
+.text-grey{
+    color: grey;
+}
+.text-white{
+    color: white;
+}
+.bg-blue{
+    background-color: #4ea0ff;
+}
+.odd{
+    background-color: #b4ecfa;
+}
+table{
+    text-align: left;
+    border-spacing: 0;
+}
+.img{
+    width: 300px;
+    height: 200px;
+}
+#monitor{
+    background-image: url(../image/monitor.jpg);
+}
+#graph{
+    background-image: url(../image/graph.jpg);
+}
+
+
+
+
+
+
+    
+
